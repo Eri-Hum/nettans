@@ -126,6 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initAccordion();
 });
 
+
 // Email validation helper function
 function isValidEmail(email) {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
